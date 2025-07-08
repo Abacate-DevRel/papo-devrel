@@ -21,20 +21,6 @@ Este repositório serve para:
 5. **Completar checklist** pós-produção
 6. **Fechar issue** após publicação
 
-## Estrutura do Repositório
-
-```text
-├── .github/
-│   ├── ISSUE_TEMPLATE/
-│   │   └── episodio.md          # Template para novos episódios
-│   └── workflows/               # Automações GitHub Actions
-├── episodios/
-│   ├── 2025/                   # Episódios organizados por ano
-│   └── templates/              # Templates e recursos
-├── docs/                       # Documentação adicional
-└── README.md                   # Este arquivo
-```
-
 ## Criando um Novo Episódio
 
 1. Abra uma [nova issue](../../issues/new/choose)

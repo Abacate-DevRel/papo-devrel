@@ -43,6 +43,28 @@ Este repositório serve para:
 4. Adicione as labels apropriadas
 5. Acompanhe o progresso através da checklist
 
+## 📁 Arquivos Principais
+
+- **[CONTRIBUTORS.md](CONTRIBUTORS.md)** - Controle de convidados e contatos
+- **[PLANEJAMENTO.md](PLANEJAMENTO.md)** - Metas e planejamento 2025
+- **[docs/labels.md](docs/labels.md)** - Sistema de organização
+- **[episodios/templates/](episodios/templates/)** - Templates reutilizáveis
+
+## 🏷️ Labels Importantes
+
+- `📋 planejamento` → `🎬 gravado` → `✂️ editando` → `🚀 publicado`
+- `💡 sugestao` - Para ideias de episódios
+- `🔧 melhoria` - Para melhorar processos
+
+## 📊 Métricas Atuais
+
+- **Episódios gravados**: 0
+- **Episódios publicados**: 0
+- **Convidados confirmados**: 0
+- **Sugestões pendentes**: 0
+
+*Atualizar conforme progresso*
+
 ## Links Úteis
 
 - [YouTube](https://youtube.com/@pachidev)

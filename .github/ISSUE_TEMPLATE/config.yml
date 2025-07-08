@@ -1,4 +1,48 @@
-blank_issues_enabled: false
+name: "Novo Episódio - Papo DevRel"
+description: "Template para organizar um novo episódio do videocast"
+body:
+  - type: input
+    id: data
+    attributes:
+      label: "Data do Episódio"
+      description: "Data planejada para gravação/publicação"
+      placeholder: "DD/MM/AAAA"
+    validations:
+      required: true
+  
+  - type: input
+    id: convidado
+    attributes:
+      label: "Convidado(a)"
+      description: "Nome da pessoa convidada"
+      placeholder: "Nome do convidado"
+    validations:
+      required: true
+  
+  - type: input
+    id: empresa
+    attributes:
+      label: "Empresa/Organização"
+      description: "Empresa ou organização do convidado"
+      placeholder: "Nome da empresa"
+    validations:
+      required: false
+  
+  - type: textarea
+    id: checklist
+    attributes:
+      label: "Checklist Pré-Evento"
+      description: "Lista de tarefas para preparação do episódio"
+      value: |
+        - [ ] Contato inicial com convidado
+        - [ ] Confirmação de data e horário
+        - [ ] Envio do roteiro/temas
+        - [ ] Teste de áudio/vídeo
+        - [ ] Preparação do material promocional
+        - [ ] Configuração da transmissão
+      render: markdown
+    validations:
+      required: true: false
 contact_links:
   - name: � Sugestão de Episódio
     url: https://github.com/pachicodes/papo-devrel/issues/new/choose

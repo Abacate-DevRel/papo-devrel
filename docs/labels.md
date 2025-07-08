@@ -3,6 +3,7 @@
 ## Labels Essenciais para Organização Interna
 
 ### Status do Episódio
+
 - `📋 planejamento` - Episódio em fase de planejamento
 - `🎬 gravado` - Episódio gravado, aguardando edição
 - `✂️ editando` - Episódio em processo de edição
@@ -11,17 +12,20 @@
 - `❌ cancelado` - Episódio cancelado
 
 ### Tipo de Issue
+
 - `🎙️ episodio` - Issues de episódios
 - `💡 sugestao` - Sugestões de episódios ou melhorias
 - `🔧 melhoria` - Melhorias nos processos/templates
 - `📝 organizacao` - Questões de organização interna
 
 ### Prioridade (opcional)
+
 - `🔥 urgente` - Alta prioridade
 - `⚡ media` - Média prioridade
 - `❄️ baixa` - Baixa prioridade
 
 ### Temas Principais
+
 - `devrel` - Developer Relations
 - `comunidade` - Temas sobre comunidade
 - `carreira` - Desenvolvimento de carreira
@@ -33,6 +37,7 @@
 ## Como Usar
 
 ### Para Episódios
+
 Todo episódio deve ter:
 1. Label `🎙️ episodio`
 2. Label de status atual
@@ -41,9 +46,11 @@ Todo episódio deve ter:
 **Exemplo**: `🎙️ episodio`, `📋 planejamento`, `devrel`, `startups`
 
 ### Para Sugestões
+
 **Exemplo**: `💡 sugestao`, `comunidade`, `⚡ media`
 
 ### Para Organização
+
 **Exemplo**: `🔧 melhoria`, `📝 organizacao`
 
 ## Fluxo de Labels para Episódios

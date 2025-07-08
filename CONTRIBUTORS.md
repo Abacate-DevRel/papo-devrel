@@ -8,17 +8,20 @@
 *Esta seção será atualizada conforme recebermos contribuições*
 
 ### Desenvolvimento
+
 - [Seu nome aqui] - Contribuição para templates
 - [Seu nome aqui] - Automação GitHub Actions
 - [Seu nome aqui] - Melhorias na documentação
 
 ### Sugestões de Episódios
+
 - [Seu nome aqui] - Sugestão de convidado
 - [Seu nome aqui] - Sugestão de tema
 
 ## Convidados
 
 ### 2025
+
 *Lista será atualizada conforme episódios são gravados*
 
 - [ ] Episódio #001 - [Nome do Convidado] - [Tema]
@@ -27,29 +30,36 @@
 ## Sugestões de Convidados
 
 ### Lista de Potenciais Convidados
+
 *Manter lista atualizada com pessoas interessantes para convidar*
 
 **Prioridade Alta:**
+
 - [ ] [Nome] - [Empresa] - [Tema sugerido]
 - [ ] [Nome] - [Empresa] - [Tema sugerido]
 
 **Prioridade Média:**
+
 - [ ] [Nome] - [Empresa] - [Tema sugerido]
 - [ ] [Nome] - [Empresa] - [Tema sugerido]
 
 **Futuro:**
+
 - [ ] [Nome] - [Empresa] - [Tema sugerido]
 - [ ] [Nome] - [Empresa] - [Tema sugerido]
 
 ## Histórico de Contatos
 
 ### Convidados Confirmados
+
 - [Data] - [Nome] - Status: Confirmado para [Data]
 
 ### Convidados Contatados
+
 - [Data] - [Nome] - Status: Aguardando resposta
 
 ### Convidados Indisponíveis
+
 - [Data] - [Nome] - Status: Indisponível por [motivo]
 
 ---

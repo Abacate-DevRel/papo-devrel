@@ -5,6 +5,7 @@ Repositório privado para organização e padronização do videocast **Papo Dev
 ## 🎯 Objetivo
 
 Este repositório serve para:
+
 - ✅ Organizar episódios de forma padronizada
 - ✅ Manter checklist consistente para cada episódio
 - ✅ Centralizar templates e roteiros
@@ -13,7 +14,8 @@ Este repositório serve para:
 
 ## 🚀 Fluxo de Trabalho
 
-### Para cada episódio:
+### Para cada episódio
+
 1. **Criar issue** usando o template "Novo Episódio"
 2. **Preencher informações** do convidado e tema
 3. **Seguir checklist** pré-evento
@@ -50,22 +52,3 @@ Este repositório serve para:
 - **Sugestões pendentes**: 0
 
 *Atualizar conforme progresso*
-
-## Links Úteis
-
-- [YouTube](https://youtube.com/@pachidev)
-- [Spotify](https://open.spotify.com/show/papo-devrel)
-- [Apple Podcasts](https://podcasts.apple.com/papo-devrel)
-
-## Contato
-
-- **Pachi Parra**: [@pachicodes](https://github.com/pachicodes)
-- **Leticia Leonardo**: [@leticiamlps](https://github.com/leticiamlps)
-
-## Contribuidores
-
-Veja nossa lista completa de [contribuidores](CONTRIBUTORS.md)!
-
----
-
-*Este projeto é open source e desenvolvido com ❤️ pela comunidade de Developer Relations.*

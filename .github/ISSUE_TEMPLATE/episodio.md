@@ -1,8 +1,9 @@
 ---
 name: Novo Episódio
 about: Template para criar um novo episódio do Papo DevRel
-title: 'Episódio #000 - [Nome da Pessoa Convidada]
+title: 'Episódio #000 - [Nome da Pessoa Convidada]'
 labels: 'episodio, planejamento'
+assignees: 'pachicodes, leticiamlps'
 ---
 
 ## 📅 Informações do Episódio

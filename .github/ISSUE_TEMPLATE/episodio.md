@@ -1,9 +1,8 @@
 ---
 name: Novo Episódio
 about: Template para criar um novo episódio do Papo DevRel
-title: 'Episódio #000 - [Nome do Convidado] - [Tema Principal]'
+title: 'Episódio #000 - [Nome da Pessoa Convidada]
 labels: 'episodio, planejamento'
-assignees: 'pachicodes, leticiamlps'
 ---
 
 ## 📅 Informações do Episódio
@@ -27,21 +26,22 @@ assignees: 'pachicodes, leticiamlps'
 
 **Resumo**: [Breve descrição do que será abordado]
 
-**Principais Tópicos**:
-
-- [ ] Tópico 1
-- [ ] Tópico 2
-- [ ] Tópico 3
-
 ## 📋 Checklist Pré-Gravação
 
 ### Planejamento
 
-- [ ] Definir data e horário da gravação
-- [ ] Confirmar disponibilidade do convidado
-- [ ] Pesquisar background do convidado
-- [ ] Preparar perguntas específicas
-- [ ] Criar roteiro personalizado
+- [ ] Confirmar convidada (data, horário, duração estimada)
+- [ ] Enviar convite com:
+  - [ ] Link da gravação
+  - [ ] Descrição do Papo DevRel e estilo da conversa (leve e informal)
+  - [ ] Perguntas-base do episódio
+
+- [ ] Solicitar:
+  - [ ] Bio curta (3 a 5 linhas)
+  - [ ] Foto (pra thumbnail)
+  - [ ] Verificar se a convidada já gravou antes ou precisa deinstruções básicas
+
+- [ ] Agendar lembrete 1 dia antes
 
 ### Preparação Técnica
 
@@ -56,27 +56,6 @@ assignees: 'pachicodes, leticiamlps'
 - [ ] Compartilhar roteiro com convidado
 - [ ] Confirmar 24h antes da gravação
 - [ ] Enviar link da gravação
-
-## 🎤 Roteiro Personalizado
-
-### Abertura (5 min)
-
-- [ ] Apresentação do programa
-- [ ] Apresentação do convidado
-- [ ] Contextualização do tema
-
-### Desenvolvimento (35-40 min)
-
-- [ ] História do convidado
-- [ ] Experiências específicas
-- [ ] Desafios e aprendizados
-- [ ] Dicas práticas
-
-### Encerramento (5 min)
-
-- [ ] Perguntas rápidas
-- [ ] Onde encontrar o convidado
-- [ ] Agradecimentos
 
 ## 📈 Pós-Produção
 

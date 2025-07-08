@@ -3,7 +3,7 @@ name: Sugestão de Episódio
 about: Template para sugerir novos episódios ou convidados
 title: 'Sugestão: [Nome do Convidado] - [Tema]'
 labels: 'sugestao'
-assignees: 'pachicodes, leticiamlps'
+assignees: 'pachicodes, levxyca'
 ---
 
 ## 💡 Sugestão de Episódio

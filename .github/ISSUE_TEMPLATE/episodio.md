@@ -41,7 +41,7 @@ labels: 'episodio, planejamento'
   - [ ] Foto (pra thumbnail)
   - [ ] Verificar se a convidada já gravou antes ou precisa deinstruções básicas
 
-- [ ] Agendar lembrete 1 dia antes
+- [ ] Agendar lembrete 1 dia antes e enviar link da gravação
 
 ### Preparação Técnica
 
@@ -49,13 +49,6 @@ labels: 'episodio, planejamento'
 - [ ] Configurar plataforma de gravação
 - [ ] Preparar ambiente de gravação
 - [ ] Configurar backup de gravação
-
-### Comunicação
-
-- [ ] Enviar convite de calendário
-- [ ] Compartilhar roteiro com convidado
-- [ ] Confirmar 24h antes da gravação
-- [ ] Enviar link da gravação
 
 ## 📈 Pós-Produção
 

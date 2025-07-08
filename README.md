@@ -1,16 +1,25 @@
-# Papo DevRel 🎙️
+# Papo DevRel 🎙️ - Organização Interna
 
-Papo DevRel é um videocast semanal apresentado por [Pachi Parra](https://github.com/pachicodes) e [Leticia Leonardo](https://github.com/levxyca), onde a cada episódio conversamos com quem vive Developer Relations na prática.
+Repositório privado para organização e padronização do videocast **Papo DevRel**, apresentado por Pachi Parra e Leticia Leonardo.
 
-## Sobre o Projeto
+## 🎯 Objetivo
 
-Este repositório serve para organizar os episódios do Papo DevRel, onde cada episódio tem sua própria issue com todas as informações necessárias para o planejamento e execução.
+Este repositório serve para:
+- ✅ Organizar episódios de forma padronizada
+- ✅ Manter checklist consistente para cada episódio
+- ✅ Centralizar templates e roteiros
+- ✅ Acompanhar progresso de produção
+- ✅ Manter histórico de episódios
 
-## Como Funciona
+## 🚀 Fluxo de Trabalho
 
-- **Issues**: Cada episódio tem uma issue dedicada com data, hosts, convidado(a) e checklist pré-evento
-- **Labels**: Utilizamos labels para categorizar os episódios por status, temas e prioridade
-- **Milestones**: Organizamos episódios por temporadas ou meses
+### Para cada episódio:
+1. **Criar issue** usando o template "Novo Episódio"
+2. **Preencher informações** do convidado e tema
+3. **Seguir checklist** pré-evento
+4. **Gravar** seguindo o roteiro
+5. **Completar checklist** pós-produção
+6. **Fechar issue** após publicação
 
 ## Estrutura do Repositório
 

@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 💬 Discussão Geral
-    url: https://github.com/pachicodes/papo-devrel/discussions
-    about: Para discussões sobre o projeto, sugestões de episódios ou feedback geral
-  - name: 🐛 Reportar Bug
+  - name: � Sugestão de Episódio
+    url: https://github.com/pachicodes/papo-devrel/issues/new/choose
+    about: Para sugerir novos temas ou convidados para o Papo DevRel
+  - name: � Melhorias no Processo
     url: https://github.com/pachicodes/papo-devrel/issues/new
-    about: Para reportar problemas técnicos ou bugs no repositório
+    about: Para sugerir melhorias nos templates, roteiros ou processo de produção

@@ -13,28 +13,19 @@ assignees: 'pachicodes, leticiamlps'
 - **Número do Episódio**: #000
 - **Duração Estimada**: [X minutos]
 
-## 👥 Participantes
-
-### Hosts
-
-- [x] Pachi Parra (@pachicodes)
-- [x] Leticia Leonardo (@leticiamlps)
-
-### Convidado(a)
+## 👥 Convidado
 
 - **Nome**: [Nome do Convidado]
 - **Empresa**: [Empresa Atual]
 - **Cargo**: [Cargo/Posição]
-- **Twitter/LinkedIn**: [@handle / perfil]
+- **Contato**: [Twitter/LinkedIn/Email]
 - **GitHub**: [@username]
 
 ## 🎯 Tema Principal
 
 **Título do Episódio**: [Título completo do episódio]
 
-**Descrição**:
-
-[Breve descrição do que será abordado no episódio]
+**Resumo**: [Breve descrição do que será abordado]
 
 **Principais Tópicos**:
 
@@ -42,22 +33,22 @@ assignees: 'pachicodes, leticiamlps'
 - [ ] Tópico 2
 - [ ] Tópico 3
 
-## 📋 Checklist Pré-Evento
+## 📋 Checklist Pré-Gravação
 
 ### Planejamento
 
 - [ ] Definir data e horário da gravação
 - [ ] Confirmar disponibilidade do convidado
+- [ ] Pesquisar background do convidado
 - [ ] Preparar perguntas específicas
-- [ ] Revisar background do convidado
-- [ ] Criar roteiro do episódio
+- [ ] Criar roteiro personalizado
 
 ### Preparação Técnica
 
+- [ ] Testar equipamento (áudio/vídeo)
 - [ ] Configurar plataforma de gravação
-- [ ] Testar áudio e vídeo
 - [ ] Preparar ambiente de gravação
-- [ ] Backup de gravação configurado
+- [ ] Configurar backup de gravação
 
 ### Comunicação
 
@@ -65,29 +56,21 @@ assignees: 'pachicodes, leticiamlps'
 - [ ] Compartilhar roteiro com convidado
 - [ ] Confirmar 24h antes da gravação
 - [ ] Enviar link da gravação
-- [ ] Briefing sobre formato do programa
 
-### Materiais
-
-- [ ] Preparar slides (se necessário)
-- [ ] Reunir links e recursos para compartilhar
-- [ ] Preparar perguntas da audiência
-- [ ] Criar arte para divulgação
-
-## 🎤 Roteiro
+## 🎤 Roteiro Personalizado
 
 ### Abertura (5 min)
 
-- [ ] Apresentação dos hosts
+- [ ] Apresentação do programa
 - [ ] Apresentação do convidado
-- [ ] Contexto do episódio
+- [ ] Contextualização do tema
 
-### Desenvolvimento (40-50 min)
+### Desenvolvimento (35-40 min)
 
-- [ ] História profissional do convidado
-- [ ] Experiências em DevRel
+- [ ] História do convidado
+- [ ] Experiências específicas
 - [ ] Desafios e aprendizados
-- [ ] Dicas para a comunidade
+- [ ] Dicas práticas
 
 ### Encerramento (5 min)
 
@@ -95,12 +78,13 @@ assignees: 'pachicodes, leticiamlps'
 - [ ] Onde encontrar o convidado
 - [ ] Agradecimentos
 
-## 📈 Pós-Gravação
+## 📈 Pós-Produção
 
 ### Edição
 
+- [ ] Fazer backup da gravação
 - [ ] Editar áudio/vídeo
-- [ ] Criar thumbnails
+- [ ] Criar thumbnail
 - [ ] Adicionar intro/outro
 - [ ] Revisar qualidade final
 
@@ -108,27 +92,26 @@ assignees: 'pachicodes, leticiamlps'
 
 - [ ] Upload no YouTube
 - [ ] Publicar no Spotify
-- [ ] Publicar no Apple Podcasts
-- [ ] Criar posts nas redes sociais
+- [ ] Adicionar em outras plataformas
+- [ ] Criar descrição completa
 
 ### Divulgação
 
-- [ ] Compartilhar no Twitter
+- [ ] Criar posts para redes sociais
 - [ ] Compartilhar no LinkedIn
 - [ ] Notificar convidado sobre publicação
 - [ ] Agradecer participação
 
-## 📝 Notas Adicionais
+## 📝 Notas
 
-[Espaço para observações especiais, links úteis, ou qualquer informação relevante para o episódio]
+[Espaço para observações, links úteis, ou qualquer informação relevante]
 
-## 🔗 Links Úteis
+## 🔗 Links Importantes
 
-- [Link da gravação]
-- [Documentos compartilhados]
-- [Recursos mencionados]
+- **Gravação**: [Link da gravação]
+- **Materiais**: [Slides, documentos, etc.]
+- **Recursos mencionados**: [Links citados no episódio]
 
 ---
 
-**Responsáveis**: @pachicodes @leticiamlps
-**Status**: Planejamento
+**Status**: Planejamento | Gravado | Editado | Publicado
